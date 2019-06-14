@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+#define a n
 using namespace std;
 int main()
 {
